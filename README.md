@@ -63,9 +63,7 @@
 
 ### 📱 Connect & Collaborate
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-zheynabdellatif-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zheynabdellatif)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zheyn-abdellatif-53669043a/?isSelfProfile=true)
 
-<sub>✨ Designed with Frutiger Aero aesthetics — Sky, Water, Glass, and Innovation ✨</sub>
 
 </div>
