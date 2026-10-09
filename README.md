@@ -16,7 +16,7 @@
 
 * 🏛️ **Origin:** Based in **Alexandria, Egypt** 🇪🇬
 * 🎓 **Academia:** Studying **Software Sciences & Multimedia** at **ANU**
-* 🚀 **Venture:** Co-founder of **SplatApp** (Former Lead Designer & Marketer)
+* 🚀 **Venture:** Co-founder of **SplatApp** (Former Features Designer & Lead Marketer)
 * 🎨 **Core Passions:** Human Art, World History, Cultural Heritage, and Generative AI
 
 ---
