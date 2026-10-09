@@ -48,17 +48,6 @@
 
 ---
 
-## 📊 Telemetry & Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zheynabdellatif&show_icons=true&theme=cyan&hide_border=false" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zheynabdellatif&layout=compact&theme=cyan&hide_border=false" alt="Top Languages" width="48%" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 📱 Connect & Collaborate
